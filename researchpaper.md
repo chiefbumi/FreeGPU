@@ -1,4 +1,4 @@
-# Project GPU
+# FreeGPU
 ## Designing a Fully Open-Source, High-Performance Gaming GPU with Extreme Reliability, Repairability, and Affordability
 
 **Research Proposal | November 17, 2026**
