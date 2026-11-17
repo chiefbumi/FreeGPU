@@ -1,4 +1,4 @@
-# free-gpu
+# Free-GPU
 ### Building a GPU for gamers, by gamers. Open source. Built to perform. Built to last.
 
 ## The Mission
